@@ -1,0 +1,61 @@
+Extract only the technical specifications from the following document. Return a valid JSON object with the exact fields below. Do not add explanations, summaries, or extra text—only return a well-formatted JSON.
+
+{
+    "server_name": "string",
+    "form_factor": "string",
+    "processor_supported": ["string"],
+    "processor_installed": ["string"],
+    "ram_supported": "string",
+    "ram_installed": "string",
+    "storage_controllers": {
+        "internal_raid": ["string"],
+        "internal_boot": ["string"],
+        "external_hba": "string"
+    },
+    "storage_supported": ["string"],
+    "storage_installed": ["string"],
+    "power_supply": ["string"],
+    "cooling_options": ["string"],
+    "fans": "string",
+    "dimensions": {
+        "height": "string",
+        "width": "string",
+        "depth_with_bezel": "string",
+        "depth_without_bezel": "string"
+    },
+    "embedded_management": ["string"],
+    "bezel": "string",
+    "openmanage_console": ["string"],
+    "gpu_supported": ["string"],
+    "gpu_installed": ["string"],
+    "ports": {
+        "front_ports": ["string"],
+        "rear_ports": ["string"],
+        "internal_ports": ["string"]
+    },
+    "pcie_slots": {
+        "total_slots": "integer",
+        "slot_1": "string",
+        "slot_2": "string",
+        "slot_4": "string"
+    },
+    "networking": {
+        "embedded_nic": "string",
+        "ocp_network_options": ["string"],
+        "pcie_add_in_nic": ["string"]
+    },
+    "operating_systems_supported": ["string"],
+    "change_management": ["string"],
+    "security_features": ["string"]
+}
+
+**Instructions:**
+- If a specification is missing in the document, return an empty string (`""`) or an empty list (`[]`), but never omit fields.
+- Ensure output is strictly valid JSON with correct formatting.
+- Do not include any explanations, descriptions, or extra text—only the JSON object.
+- Output only the extracted data, without any explanations, reasoning or additional information.
+
+**Document:**  
+{document_text}
+
+Return only the JSON output.

@@ -1,0 +1,5 @@
+**Document:**
+{document_text}
+
+There is a table in the document above with the specification for the server. Please extract all the information from that table.
+Return only the JSON output. Ensure strict JSON formatting.

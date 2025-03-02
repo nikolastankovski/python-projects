@@ -1,0 +1,77 @@
+{
+    "Processor": {
+      "Type": "",
+      "Supported": "Up to three PCIe slots* (x16 connector)",
+      "Count": ""
+    },
+    "Memory": {
+      "Type": "",
+      "Supported": "DDR4 ECC RDIMM",
+      "Capacity": ""
+    },
+    "Storage": {
+      "Type": "SAS, SATA",
+      "Supported": "Up to 8 internal bays",
+      "Capacity": ""
+    },
+    "Networking": {
+      "Ports": [
+        "1 Gb dedicated BMC Ethernet port",
+        "Two USB 3.1 Type-A",
+        "1 x VGA"
+      ],
+      "PCIe NIC": [
+        "100 GbE and 400GbE*; NDR VPI (400GbE)*; FC 32 / 64*"
+      ]
+    },
+    "Power Supply": {
+      "Type": "",
+      "Capacity": ""
+    },
+    "Graphics Processing Unit": {
+      "Type": "",
+      "Supported": "Up to 3 x 75W SW*",
+      "Count": ""
+    },
+    "Cooling System": {
+      "Type": "Air cooling"
+    },
+    "Chassis and Form Factor": {
+      "Weight": "",
+      "Width": "",
+      "Height": "",
+      "Form Factor": "Rackmount, 1U"
+    },
+    "Operating System and Software": [
+      "Canonical Ubuntu Server LTS",
+      "Microsoft Windows Server with Hyper-V",
+      "Red Hat Enterprise Linuxr",
+      "VMware ESXi"
+    ],
+    "Security Features": [
+      "Chassis Intrusion Detection",
+      "System Lockdown",
+      "TPM 2.0 FIPS, CC-TCG certified",
+      "PCIe Add-in Card (AIC) NIC: 100 GbE and 400GbE*; NDR VPI (400GbE)*; FC 32 / 64*"
+    ],
+    "Expansion and I/O": {
+      "Front Ports": [
+        "1 x USB 2.0 Type-A (optional LCP KVM)",
+        "1 x USB 2.0 Type-C (HOST/BMC Direct)",
+        "1 x MiniDisplay port (optional LCP KVM)"
+      ],
+      "Internal Port": [
+        "1 x USB 3.1 Type-A"
+      ],
+      "Rear Ports": [
+        "Two USB 3.1 Type-A",
+        "1 x VGA",
+        "1 Gb dedicated BMC Ethernet port"
+      ]
+    },
+    "Reliability and Warranty": {
+      "Warranty": ""
+    },
+    "Compliance and Certifications": "",
+    "Price and Availability": ""
+  }

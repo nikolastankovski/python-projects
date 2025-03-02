@@ -1,0 +1,28 @@
+**Document:**
+{document_text}
+
+The document above is a detailed specification sheet for a server. 
+It provides an overview of its features, specifications, and benefits.
+
+**Instructions:**
+1. Extract information from the document like:
+    -**Processor** - What kind it uses or supports as well as how many?, 
+    -**Memory** - What kind it uses or supports as well as how many?, 
+    -**Storage containers** - What kind it uses or supports as well as how many?,
+    -**Drive bays**
+    -**Networking**, 
+    -**Power Supply**,
+    -**Graphics Processing Unit (GPU)** - What kind it uses or supports as well as how many?, 
+    -**Cooling System** - What kind?, 
+    -**Chassis and Form Factor**
+    -**Dimensions** - weight, width, height 
+    -**Operating System and Software**, 
+    -**Security Features**, 
+    -**Expansion and I/O**, 
+    -**Reliability and Warranty**, 
+    -**Compliance and Certifications**, 
+    -**Price and Availability**
+2. Extract additional information that are available and that are related to the specification of the server
+3. **Do not add or infer missing values.** If a value is not explicitly stated, return `""` (empty string) or `[]` (empty list), but **never omit fields that appear in the document**
+4. **Do not include any marketing text, explanations, summaries, or extra text.**
+5. **Return logical and valid JSON**

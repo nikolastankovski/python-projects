@@ -1,0 +1,17 @@
+The document below is a detailed specification sheet for a server. 
+It provides an overview of its features, specifications, and benefits.
+
+**Instructions:**
+- **Extract every technical specification** present in the document.
+- **Maintain the original specification names** found in the document as JSON keys.
+- **Do not add or infer missing values.** If a value is not explicitly stated, return `""` (empty string) or `[]` (empty list), but **never omit fields that appear in the document**.
+- **Preserve data structure**:
+  - Lists for multiple values (e.g., multiple CPUs, RAM configurations).
+  - Nested objects for grouped specifications (e.g., `dimensions`, `ports`).
+- **Do not include any explanations, summaries, or extra text.** Return **only** a well-formatted JSON.
+- **Exclude any marketing text or explanations
+
+**Document:**
+{document_text}
+
+Return only the JSON output. Ensure strict JSON formatting.

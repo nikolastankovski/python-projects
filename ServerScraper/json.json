@@ -1,0 +1,401 @@
+{
+    "product_number": "7D2XA05LNA",
+    "enable_selection_of_latest_options_and_features": [
+        "Latest Options and features selected. Previous versions are disabled"
+    ],
+    "base": [
+        "ThinkSystem 1U 2.5 Chassis with 8 or 10 Bays",
+        "ThinkSystem 1U 3.5 Chassis with 4 Bays"
+    ],
+    "uefi_operating_modes": [
+        "Operating mode selection for: Maximum Performance Mode", "Operating mode selection for: \xa0Maximum Efficiency Mode"
+    ],
+    "processor": ["ThinkSystem AMD EPYC 7232P\xa08C 120W 3.1GHz Processor",
+        "ThinkSystem AMD EPYC 7262 8C 155W 3.2GHz Processor",
+        "ThinkSystem AMD EPYC 7203 8C 120W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 7203P 8C 120W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 72F3 8C 180W 3.7GHz Processor",
+        "ThinkSystem AMD EPYC 7272 12C 120W 2.9GHz Processor",
+        "ThinkSystem AMD EPYC 7302 16C 155W 3.0GHz Processor",
+        "ThinkSystem AMD EPYC 7282 16C 120W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 7302P 16C 155W 3.0GHz Processor",
+        "ThinkSystem AMD EPYC 7F52 16C 240W 3.5GHz Processor",
+        "ThinkSystem AMD EPYC 7313P 16C 155W 3.0GHz Processor",
+        "ThinkSystem AMD EPYC 7303 16C 130W 2.4GHz Processor",
+        "ThinkSystem AMD EPYC 7313 16C 155W 3.0GHz Processor",
+        "ThinkSystem AMD EPYC 7373X 16C 240W 3.05GHz Processor",
+        "ThinkSystem AMD EPYC 7303P 16C 130W 2.4GHz Processor",
+        "ThinkSystem AMD EPYC 7343 16C 190W 3.2GHz Processor",
+        "ThinkSystem AMD EPYC 7352 24C 155W 2.3GHz Processor",
+        "ThinkSystem AMD EPYC 7402 24C 180W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 7402P 24C 180W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 7F72 24C 240W 3.2GHz Processor",
+        "ThinkSystem AMD EPYC 7413 24C 180W 2.65GHz Processor",
+        "ThinkSystem AMD EPYC 7443 24C 200W 2.85GHz Processor",
+        "ThinkSystem AMD EPYC 7443P 24C 200W 2.85GHz Processor",
+        "ThinkSystem AMD EPYC 7473X 24C 240W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 74F3 24C 240W 3.2GHz Processor",
+        "ThinkSystem AMD EPYC 7453 28C 225W 2.75GHz Processor",
+        "ThinkSystem AMD EPYC 7502P 32C 180W 2.5GHz Processor",
+        "ThinkSystem AMD EPYC 7532 32C 200W 2.4GHz Processor",
+        "ThinkSystem AMD EPYC 7543 32C 225W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 7513 32C 200W 2.6GHz Processor",
+        "ThinkSystem AMD EPYC 7543P 32C 225W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 7573X 32C 280W 2.8GHz Processor",
+        "ThinkSystem AMD EPYC 75F3 32C 280W 2.95GHz Processor",
+        "ThinkSystem AMD EPYC 7643 48C 225W 2.3GHz Processor",
+        "ThinkSystem AMD EPYC 7643P 48C 225W 2.3GHz Processor",
+        "ThinkSystem AMD EPYC 7663 56C 240W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7662 64C 225W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7H12 64C 280W 2.6GHz Processor", "ThinkSystem AMD\xa0EPYC 7702P 64C 200W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7713P 64C 225W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7763 64C 280W 2.45GHz Processor",
+        "ThinkSystem AMD EPYC 7713 64C 225W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7773X 64C 280W 2.2GHz Processor"
+    ],
+    "temp_7d2xa05lna": [
+        "ThinkSystem AMD EPYC 7713P 64C 225W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7763 64C 280W 2.45GHz Processor",
+        "ThinkSystem AMD EPYC 7713 64C 225W 2.0GHz Processor",
+        "ThinkSystem AMD EPYC 7773X 64C 280W 2.2GHz Processor"
+    ],
+    "heatsink": [
+        "ThinkSystem SR645 Perf HS",
+        "ThinkSystem SR645 STD HS",
+        "ThinkSystem Al HS"
+    ],
+    "platform_secure_boot": [
+        "Platform Secure Boot Disable",
+        "Platform Secure Boot Enable"
+    ],
+    "performance_memory": [
+        "ThinkSystem 64GB TruDDR4 Performance+ 3200 MHz (2Rx4 1.2V) RDIMM-A"
+    ],
+    "memory": [
+        "ThinkSystem 128GB TruDDR4 3200MHz (4Rx4,1.2V) 3DS RDIMM-A",
+        "ThinkSystem 16GB TruDDR4 3200MHz (2Rx8 1.2V) RDIMM-A",
+        "ThinkSystem 32GB TruDDR4 3200 MHz (2Rx8 1.2V) RDIMM-A",
+        "ThinkSystem 32GB TruDDR4 3200MHz (2Rx4 1.2V) RDIMM-A",
+        "ThinkSystem 64GB TruDDR4 3200MHz (2Rx4 1.2V) RDIMM-A"
+    ],
+    "raid_configuration": [
+        "Select Storage devices - configured RAID",
+        "Select Storage devices - no configured RAID required"
+    ],
+    "rear_hdd_boot": [
+        "Populate Rear Drives",
+        "Populate and Boot From Rear Drives"
+    ],
+    "tri-mode_controller": [
+        "ThinkSystem RAID 940-8i 8GB Flash PCIe Gen4 12Gb Adapter for U.3",
+        "ThinkSystem RAID 940-8i 4GB Flash PCIe Gen4 12Gb Adapter for U.3",
+        "ThinkSystem RAID 940-16i 4GB Flash PCIe Gen4 12Gb Adapter for U.3",
+        "ThinkSystem RAID 940-16i 8GB Flash PCIe Gen4 12Gb Adapter for U.3"
+    ],
+    "sas/sata_raid_controller": [
+        "ThinkSystem RAID 530-16i PCIe 12Gb Adapter",
+        "On Sale",
+        "On Sale",
+        "ThinkSystem RAID 540-16i PCIe Gen4 12Gb Adapter",
+        "ThinkSystem RAID 9350-16i 4GB Flash PCIe 12Gb Internal Adapter",
+        "ThinkSystem RAID 940-8i 8GB Flash PCIe Gen4 12Gb Adapter",
+        "ThinkSystem RAID 5350-8i PCIe 12Gb Adapter",
+        "ThinkSystem RAID 540-8i PCIe Gen4 12Gb Adapter",
+        "ThinkSystem RAID 9350-16i 4GB Flash PCIe 12Gb Adapter",
+        "ThinkSystem RAID 9350-8i 2GB Flash PCIe 12Gb Adapter",
+        "ThinkSystem RAID 9350-8i 2GB Flash PCIe 12Gb Internal Adapter",
+        "ThinkSystem RAID 940-16i 8GB Flash PCIe Gen4 12Gb Internal Adapter",
+        "ThinkSystem RAID 940-8i 4GB Flash PCIe Gen4 12Gb Adapter",
+        "ThinkSystem RAID 5350-8i PCIe 12Gb Internal Adapter",
+        "ThinkSystem RAID 940-16i 4GB Flash PCIe Gen4 12Gb Adapter",
+        "ThinkSystem RAID 940-16i 8GB Flash PCIe Gen4 12Gb Adapter"
+    ],
+    "non-raid_controller": [
+        "Non RAID NVMe",
+        "On Board SATA AHCI Mode",
+        "ThinkSystem 4350-16i SAS/SATA 12Gb HBA",
+        "ThinkSystem 4350-8i SAS/SATA 12Gb HBA",
+        "ThinkSystem 440-16i SAS/SATA PCIe Gen4 12Gb HBA",
+        "ThinkSystem 440-16i SAS/SATA PCIe Gen4 12Gb Internal HBA",
+        "ThinkSystem 440-8i SAS/SATA PCIe Gen4 12Gb HBA"
+    ],
+    "nvme_u.2_controller": [
+        "ThinkSystem 4-Port PCIe Gen4 NVMe Retimer Adapter"
+    ],
+    "hdd_not_in_raid_array": [
+        "ThinkSystem 2.5 1TB 7.2K SAS 12Gb Hot Swap 512n HDD",
+        "$100 Off",
+        "$100 Off",
+        "ThinkSystem 2.5 S4520 240GB Read Intensive SATA 6Gb HS SSD",
+        "$50 Off",
+        "$50 Off",
+        "ThinkSystem 2.5 1.2TB 10K SAS 12Gb Hot Swap 512n HDD",
+        "ThinkSystem 2.5 1.2TB 10K SAS 12Gb Hot Swap 512n HDD SED",
+        "ThinkSystem 2.5 1.8TB 10K SAS 12Gb Hot Swap 512e HDD",
+        "ThinkSystem 2.5 2.4TB 10K SAS 12Gb Hot Swap 512e HDD FIPS v2",
+        "ThinkSystem 2.5 2.4TB 10K SAS 12Gb Hot Swap 512e HDD v2",
+        "ThinkSystem 2.5 300GB 10K SAS 12Gb Hot Swap 512n HDD",
+        "ThinkSystem 2.5 300GB 15K SAS 12Gb Hot Swap 512n HDD",
+        "ThinkSystem 2.5 5400 MAX 1.92TB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 MAX 3.84TB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 MAX 960GB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 PRO 1.92TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 PRO 240GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 PRO 3.84TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 PRO 480GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 PRO 7.68TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 5400 PRO 960GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 600GB 10K SAS 12Gb Hot Swap 512n HDD",
+        "ThinkSystem 2.5 600GB 10K SAS 12Gb Hot Swap 512n HDD SED",
+        "ThinkSystem 2.5 600GB 15K SAS 12Gb Hot Swap 512n HDD",
+        "ThinkSystem 2.5 CM893a 1.92TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 Multi Vendor 1.92TB Mixed Use SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 1.92TB Read Intensive SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 240GB Read Intensive SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 3.84TB Entry SATA 6Gb Hot Swap SSD",
+        "ThinkSystem 2.5 Multi Vendor 3.84TB Mixed Use SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 3.84TB Read Intensive SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 480GB Read Intensive SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 7.68TB Read Intensive SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 960GB Entry SATA 6Gb Hot Swap SSD",
+        "ThinkSystem 2.5 Multi Vendor 960GB Mixed Use SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Multi Vendor 960GB Read Intensive SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 Nytro 3750 1.6TB Write Intensive SAS 12Gb HS SSD",
+        "ThinkSystem 2.5 Nytro 3750 3.2TB Write Intensive SAS 12Gb HS SSD",
+        "ThinkSystem 2.5 PM1653 1.92TB Read Intensive SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1653 15.36TB Read Intensive SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1653 3.84TB Read Intensive SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1653 7.68TB Read Intensive SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1653 960GB Read Intensive SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1655 1.6TB Mixed Use SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1655 3.2TB Mixed Use SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1655 6.4TB Mixed Use SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM1655 800GB Mixed Use SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 PM7 1.6TB Mixed Use SAS 24Gb HS SSD FIPS",
+        "ThinkSystem 2.5 PM7 3.2TB Mixed Use SAS 24Gb HS SSD FIPS",
+        "ThinkSystem 2.5 PM893a 1.92TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 PM893a 3.84TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 PM893a 480GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 PM893a 7.68TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 PM893a 960GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4520 3.84TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4520 480GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4520 7.68TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4520 960GB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4620 1.92TB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4620 3.84TB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 S4620 960GB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 U.2 P5336 30.72TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5520 1.92TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5520 15.36TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5520 7.68TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5620 1.6TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5620 12.8TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5620 6.4TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 PM9A3 1.92TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 PM9A3 3.84TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 PM9A3 3.84TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 PM9A3 960GB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 MAX 1.6TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 MAX 3.2TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 MAX 800GB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 PRO 1.92TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 PRO 3.84TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 PRO 960GB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 PM1733a 15.36TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 PM1733a 3.84TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 PM1733a 7.68TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 PM1745 1.6TB Mixed Use NVMe PCIe 5.0 x4 HS SSD",
+        "ThinkSystem U.3 Kioxia CM6-V 1.6TB Mainstream NVMe PCIe4.0 x4 Hot Swap SSD",
+        "ThinkSystem 2.5 S4520 1.92TB Read Intensive SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 U.3 PM1733a 1.92TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 5400 MAX 480GB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 Multi Vendor 1.92TB Entry SATA 6Gb Hot Swap SSD",
+        "ThinkSystem 2.5 Multi Vendor 480GB Mixed Use SATA 6Gb HS SSD v2",
+        "ThinkSystem 2.5 S4620 480GB Mixed Use SATA 6Gb HS SSD",
+        "ThinkSystem 2.5 U.2 P5336 61.44TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 MAX 12.8TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 MAX 6.4TB Mixed Use NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 PRO 15.36TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 7500 PRO 7.68TB Read Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 PM1653 30.72TB Read Intensive SAS 24Gb HS SSD",
+        "ThinkSystem 2.5 U.2 P5800X 1.6TB Write Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5800X 400GB Write Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.2 P5800X 800GB Write Intensive NVMe PCIe 4.0 x4 HS SSD",
+        "ThinkSystem 2.5 U.3 PM1733a 30.72TB Read Intensive NVMe PCIe 4.0 x4 HS SSD"
+    ],
+    "m.2_enablement": [
+        "ThinkSystem M.2 SATA 2-Bay RAID Adapter",
+        "ThinkSystem M.2 SATA/NVMe 2-Bay Adapter",
+        "ThinkSystem M.2 NVMe 2-Bay RAID Adapter"
+    ],
+    "backplane": [],
+    "rear_backplane": [],
+    "ocp_card": [
+        "ThinkSystem Broadcom 5719 1GbE RJ45 4-port OCP Ethernet Adapter",
+        "ThinkSystem Broadcom 57414 10/25GbE SFP28 2-port OCP Ethernet Adapter",
+        "ThinkSystem Broadcom 57416 10GBASE-T 2-port + 5720 1GbE 2-port OCP Ethernet Adapter",
+        "ThinkSystem Broadcom 57416 10GBASE-T 2-port OCP Ethernet Adapter",
+        "ThinkSystem Broadcom 57454 10/25GbE SFP28 4-port OCP Ethernet Adapter"
+    ],
+    "fiber_channel_adapter": [
+        "Emulex 16Gb Gen6 FC Dual-port HBA",
+        "Emulex 16Gb Gen6 FC Single-port HBA",
+        "QLogic 16Gb Enhanced Gen5 FC Dual-port HBA",
+        "QLogic 16Gb Enhanced Gen5 FC Single-port HBA",
+        "ThinkSystem Emulex LPe35000 32Gb 1-port PCIe Fibre Channel Adapter",
+        "ThinkSystem Emulex LPe35000 32Gb 1-port PCIe Fibre Channel Adapter v2",
+        "ThinkSystem Emulex LPe35002 32Gb 2-port PCIe Fibre Channel Adapter V2",
+        "ThinkSystem QLogic QLE2770 32Gb 1-Port PCIe Fibre Channel Adapter",
+        "ThinkSystem QLogic QLE2772 32Gb 2-Port PCIe Fibre Channel Adapter",
+        "ThinkSystem Emulex LPe35002 32Gb 2-port PCIe Fibre Channel Adapter"
+    ],
+    "infiniband_adapter": [
+        "ThinkSystem Mellanox ConnectX-6 HDR100/100GbE QSFP56 1-port PCIe VPI Adapter",
+        "ThinkSystem NVIDIA ConnectX-7 NDR OSFP400 1-Port PCIe Gen5 x16 InfiniBand Adapter",
+        "ThinkSystem NVIDIA ConnectX-7 NDR200/200GbE QSFP112 2-port PCIe Gen5 x16 Adapter",
+        "ThinkSystem Mellanox ConnectX-6 HDR/200GbE QSFP56 1-port PCIe 4 VPI Adapter",
+        "ThinkSystem Mellanox HDR/200GbE 2x PCIe Aux Kit"
+    ],
+    "external_storage_adapter": [
+        "ThinkSystem 440-8e SAS/SATA PCIe Gen4 12Gb HBA",
+        "ThinkSystem RAID 940-8e 4GB Flash PCIe Gen4 12Gb Adapter",
+        "ThinkSystem 440-16e SAS/SATA PCIe Gen4 12Gb HBA"
+    ],
+    "network_adapter": [
+        "ThinkSystem AMD X3522 10/25GbE DSFP28 2-Port PCIe Ethernet Adapter (Low Latency)",
+        "ThinkSystem Broadcom 5719 1GbE RJ45 4-Port PCIe Ethernet Adapter",
+        "ThinkSystem Broadcom 5720 1GbE RJ45 2-Port PCIe Ethernet Adapter",
+        "ThinkSystem Broadcom 57414 10/25GbE SFP28 2-port PCIe Ethernet Adapter",
+        "ThinkSystem Broadcom 57416 10GBASE-T 2-Port PCIe Ethernet Adapter",
+        "ThinkSystem Broadcom 57454 10/25GbE SFP28 4-port PCIe Ethernet Adapter V2",
+        "ThinkSystem Broadcom 57504 10/25GbE SFP28 4-Port PCIe Ethernet Adapter",
+        "ThinkSystem Broadcom 57508 100GbE QSFP56 2-port PCIe 4 Ethernet Adapter",
+        "ThinkSystem I350-T4 PCIe 1Gb 4-Port RJ45 Ethernet Adapter",
+        "ThinkSystem Intel E810-DA2 10/25GbE SFP28 2-Port PCIe Ethernet Adapter",
+        "ThinkSystem Intel E810-DA4 10/25GbE SFP28 4-Port PCIe Ethernet Adapter",
+        "ThinkSystem Intel X710-DA2 PCIe 10Gb 2-Port SFP+ Ethernet Adapter",
+        "ThinkSystem Intel X710-T2L 10GBase-T 2-Port PCIe Ethernet Adapter",
+        "ThinkSystem Intel X710-T4L 10GBase-T 4-Port PCIe Ethernet Adapter",
+        "ThinkSystem Mellanox ConnectX-6 Dx 100GbE QSFP56 2-port PCIe Ethernet Adapter",
+        "ThinkSystem Mellanox ConnectX-6 Lx 10/25GbE SFP28 2-Port PCIe Ethernet Adapter",
+        "ThinkSystem Xilinx Alveo U50 Data Center Accelerator Adapter",
+        "ThinkSystem Solarflare X2522-Plus 10/25GbE SFP28 2-Port PCIe Ethernet Adapter",
+        "ThinkSystem Xilinx Alveo U25 25GbE SFP28 2-Port PCIe FPGA Adapter"
+    ],
+    "gpu_adapter": [
+        "ThinkSystem NVIDIA A2 16GB PCIe Gen4 Passive GPU w/o CEC"
+    ],
+    "com_port_bracket": [],
+    "pci_riser_1": [
+        "ThinkSystem 1U PCIe Gen3 x16/x16 Riser 1",
+        "ThinkSystem 1U PCIe Gen4 x16/x16 Riser 1",
+        "ThinkSystem 1U PCIe Gen4 x16 Riser 1 w/ Rear Drive"
+    ],
+    "riser1_bracket": [],
+    "pci_riser_2": [],
+    "odd": [
+        "ThinkSystem External USB DVD-RW Optical Disk Drive"
+    ],
+    "power_supply": [
+        "ThinkSystem 1100W 230V Titanium Hot-Swap Gen2 Power Supply",
+        "Requires High Voltage Outlet",
+        "Requires High Voltage Outlet",
+        "ThinkSystem 750W 230V Titanium Hot-Swap Gen2 Power Supply",
+        "Requires High Voltage Outlet",
+        "Requires High Voltage Outlet",
+        "ThinkSystem 750W 230V Titanium Hot-Swap Gen2 Power Supply v3",
+        "Requires High Voltage Outlet",
+        "Requires High Voltage Outlet",
+        "ThinkSystem V2 1100W (230Vac/115Vac) Platinum Hot Swap Power Supply",
+        "ThinkSystem 1800W 230V Platinum Hot-Swap Gen2 Power Supply v2",
+        "Requires High Voltage Outlet",
+        "Requires High Voltage Outlet",
+        "ThinkSystem 1800W 230V Titanium Hot-Swap Gen2 Power Supply",
+        "Requires High Voltage Outlet",
+        "Requires High Voltage Outlet",
+        "ThinkSystem 1100W -48V DC Hot-Swap Gen2 Power Supply",
+        "ThinkSystem 500W 230V/115V Platinum Hot-Swap Gen2 Power Supply v3",
+        "ThinkSystem 750W 230V/115V Platinum Hot-Swap Gen2 Power Supply"
+    ],
+    "rack_power_cable": [
+        "0.5m,10A/100-250V, C13 to C14 Jumper Cord",
+        "1.0m,10A/100-250V, C13 to C14 Jumper Cord", "1.0m,13A/100-250V, C13 to C14 Jumper Cord", "1.2m,
+        16A/100-250V,
+        2 Short C13s to Short C20 Rack Power Cable", "1.345m,
+        2X C13 to C14 Jumper Cord, Rack Power Cable", "1.5m,
+        10A/100-250V, C13 to C14 Jumper Cord", "1.5m,
+        13A/100-250V, C13 to C14 Jumper Cord", "2.0m,
+        10A/100-250V, C13 to C14 Jumper Cord", "2.5m,
+        16A/100-250V,
+        2 Long C13s to Short C20 Rack Power Cable", "2.8m,
+        10A/100-250V, C13 to C14 Jumper Cord", "2.8m,
+        10A/100-250V, C13 to IEC 320-C20 Rack Power Cable", "2.8m,
+        13A/100-250V, C13 to C14 Jumper Cord", "2.8m,
+        16A/100-250V,
+        2 Short C13s to Long C20 Rack Power Cable", "4.1m,
+        16A/100-250V,
+        2 Long C13s to Long C20 Rack Power Cable", "4.3m,
+        10A/100-250V, C13 to C14 Jumper Cord", "4.3m,
+        13A/100-250V, C13 to C14 Rack Power Cable", "2.054m,
+        2X C13 to C14 Jumper Cord, Rack Power Cable", "2.0m, 13A/100-250V, C13 to C14 Jumper Cord"
+    ],
+    "line_cord": [
+        "2.8m,10A/120V, C13 to NEMA 5-15P (US) Line Cord", "2.8m,10A/250V, C13 to NEMA 6-15P Line Cord", "4.3m,
+        10A/125V, C13 to NEMA 5-15P (US) Line Cord", "4.3m,
+        10A/250V, C13 to NEMA 6-15P (US) Line Cord", "4.3m,
+        13A/120V, C13 to NEMA 5-15P (US) Line Cord", "2.8m,
+        13A/120V, C13 to NEMA 5-15P (US) Line Cord"
+    ],
+    "system_management_upgrade": [
+        "ThinkSystem XClarity Controller Standard to Advanced Upgrade",
+        "ThinkSystem XClarity Controller Standard to Enterprise Upgrade"
+    ],
+    "ghana_energy_efficiency_label": [
+        "ThinkSystem SR645 Ghana energy efficiency Label"
+    ],
+    "usb_flash_drive": [
+        "ThinkSystem 32GB USB Flash Drive"
+    ],
+    "front_io": [
+        "ThinkSystem External Diagnostics Handset",
+        "ThinkSystem 1U Integrated Diagnostics Panel"
+    ],
+    "fan": [
+        "ThinkSystem 1U Performance Fan Option Kit",
+        "ThinkSystem 1U Standard Fan Option Kit"
+    ],
+    "rail_kit": [
+        "ThinkSystem Toolless Friction Rail v2",
+        "ThinkSystem Toolless Slide Rail Kit v2",
+        "ThinkSystem Toolless Slide Rail Kit v2 Enhanced",
+        "ThinkSystem Toolless Slide Rail Kit v2 Enhanced with 1U CMA",
+        "ThinkSystem Toolless Slide Rail Kit v2 with 1U CMA"
+    ],
+    "front_vga_connector": [
+        "ThinkSystem 1U Front VGA Cable"
+    ],
+    "external_conversion_cable": [
+        "Virtual Media Conversion Option Gen2 (VCO2)"
+    ],
+    "hana_software_stack": [
+        "SAP Non-HANA Solution"
+    ],
+    "tpm_module": [
+        "TPM 2.0 and Secure Boot",
+        "Enable TPM 2.0",
+        "Feature Enable TPM 1.2",
+        "Shipment long Lead Time",
+        "Shipment long Lead Time"
+    ],
+    "ipmi": [
+        "Disable IPMI-over-LAN",
+        "Enable IPMI-over-LAN"
+    ],
+    "front_security_bezel": [
+        "ThinkSystem V2 1U Security Bezel"
+    ],
+    "value_added_option_services_-_uid_asset_tag": [
+        "UID Asset Tag Label"
+    ]
+}
