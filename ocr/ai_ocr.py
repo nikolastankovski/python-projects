@@ -12,7 +12,8 @@ class ChatModel(Enum):
     PHI4 = "phi4"
     MISTRAL = "mistral"
     LLAMA32 = "llama3.2"
-    GRANITE32 = "granite3.2-vision"
+    GRANITE32VISION = "granite3.2-vision"
+    GRANITE32 = "granite3.2:8b"
 
 def dt_now():
     return dt.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -41,8 +42,8 @@ def process_document(file_path):
     return ""
 
 def analyze_with_model(text):
-    SYSTEM_PROMPT_PATH = os.path.join(os.getcwd(), r"ocr\system_prompts\ocr_expert.txt")
-    USER_PROMPT_PATH = os.path.join(os.getcwd(), r"ocr\user_prompts\prompt_2.txt")
+    SYSTEM_PROMPT_PATH = os.path.join(os.getcwd(), r"system_prompts\ocr_expert.txt")
+    USER_PROMPT_PATH = os.path.join(os.getcwd(), r"user_prompts\prompt_3.txt")
 
     with open(file=SYSTEM_PROMPT_PATH, mode="r", encoding="utf-8") as file:
         system_prompt = file.read()
@@ -54,7 +55,7 @@ def analyze_with_model(text):
         file.close()
 
     response = ollama.chat(
-        model=ChatModel.PHI4.value,
+        model=ChatModel.GRANITE32.value,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
@@ -71,7 +72,7 @@ def run_ocr():
         print(f"START - {dt_now()}")
         print("=========================================")
 
-    DOCUMENTS_PATH = os.path.join(os.getcwd(), r"ocr\documents")
+    DOCUMENTS_PATH = os.path.join(os.getcwd(), r"documents")
 
     for file_name in os.listdir(DOCUMENTS_PATH):
         file_path = os.path.join(DOCUMENTS_PATH, file_name)
